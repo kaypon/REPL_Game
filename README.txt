@@ -1,2 +1,5 @@
-hello
-hello again, kevin
+# DRINK AT SHMOS
+
+Repl game using mutltiple switch statements. 
+
+Constant work in progress.
