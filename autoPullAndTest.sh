@@ -2,12 +2,8 @@
 
 
 while [ 1 ]; do
-	echo Fetching from Master...
 	git fetch --all
-	sleep 3
-	echo Checking Status...
-	git status
-	sleep 3
+	sleep 10
 	status=$(git status)
 	
 	if [[ $status = *"Changes to be committed"* ]] | [[ $status = *"Changes not staged for commit"* ]] | [[ $status = *"Untracked files"* ]]; then
