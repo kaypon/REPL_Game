@@ -1,6 +1,6 @@
 # DRINK AT SHMOS
 
-Repl game using mutltiple switch statements. 
+Repl game using mutltiple switch statements. Fun for all!
 
 Constant work in progress.
 
