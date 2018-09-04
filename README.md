@@ -1,3 +1,3 @@
 # DRINK AT SHMOS
 
-Repl game using mutltiple switch statements written in Ruby. Fun for all.
+Currently just being used to implement github features.
